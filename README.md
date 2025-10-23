@@ -1,2 +1,3 @@
 # aboubacar-portfolio
 My portfolio
+I will add tailwind to it soon...
